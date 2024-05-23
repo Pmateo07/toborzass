@@ -1,0 +1,60 @@
+#teto {
+    border: 5px solid;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #0A4506;
+}
+#cimer {
+    width: 50px;
+    border-radius: 5px;
+}
+body {
+    background: rgb(153, 199, 113);
+}
+a {
+    color: white;
+    margin-left: 230px;
+}
+#cim {
+    margin-left: 555px;
+}
+#lovesz {
+    width: 300px;
+    border-radius: 5px;
+}
+#csonak {
+    width: 300px;
+    border-radius: 5px;
+}
+#bejarat {
+    width: 300px;
+    border-radius: 5px;
+}
+#tank {
+    width: 300px;
+    border-radius: 5px;
+}
+h1 {
+    color: white;
+    text-shadow: 2px 1px black;
+}
+h2 {
+    color: white;
+    text-shadow: 2px 1px black;
+}
+h3 {
+    color: white;
+    text-shadow: 2px 1px black;
+}
+#gomb {
+    border: solid 2px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0A4506;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 640px;
+    cursor: pointer;
+}
